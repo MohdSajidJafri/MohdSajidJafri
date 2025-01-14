@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mohd Sajid Jafri 👋
 
-<!--
-**MohdSajidJafri/MohdSajidJafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Sophomore CSE Student at Integral University**  
+💻 Passionate about full-stack development, blockchain, and AI  
+🎯 Skilled in Python, JavaScript, ReactJS, NodeJS, and PostgreSQL  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools:
+- **Languages:** Python, Java, C++, JavaScript, SQL  
+- **Frameworks:** ReactJS, ExpressJS  
+- **Tools:** Git, Postman, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Highlighted Projects:
+- [**Crypto Token Platform**](https://github.com/MohdSajidJafri/crypto-token-platform): A decentralized app for secure token management.
+- [**Google Keep Clone**](https://github.com/MohdSajidJafri/google-keep-clone): A note-taking app with modern UI and efficient state management.
+- [**Todo List**](https://github.com/MohdSajidJafri/todo-list): A CRUD-enabled task management system using PostgreSQL.
+
+## 📈 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdSajidJafri&show_icons=true&theme=radical)
+
+
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![ReactJS](https://img.shields.io/badge/Framework-ReactJS-blue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-orange)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohdSajidJafri&theme=radical)
