@@ -12,7 +12,7 @@
 ## 🌟 Highlighted Projects:
 - [**Crypto Token Platform**](https://github.com/MohdSajidJafri/trumio): A decentralized app for secure token management.
 - [**Google Keep Clone**](https://github.com/MohdSajidJafri/Keep-Clone): A note-taking app with modern UI and efficient state management.
-- [**Todo List**](https://github.com/MohdSajidJafri/todo-list): A CRUD-enabled task management system using PostgreSQL.
+- [**Blog API **](https://github.com/MohdSajidJafri/Blog-API-Project): A CRUD-enabled task management system using PostgreSQL.
 
 ## 📈 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdSajidJafri&show_icons=true&theme=radical)
