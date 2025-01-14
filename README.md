@@ -23,4 +23,3 @@
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-orange)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohdSajidJafri&theme=radical)
