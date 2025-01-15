@@ -10,7 +10,7 @@
 - **Tools:** Git, Postman, Linux  
 
 ## 🌟 Highlighted Projects:
-- [**Crypto Token Platform**](https://github.com/MohdSajidJafri/trumio): A decentralized app for secure token management.
+- [**DID BlockChain Credential System**](https://github.com/MohdSajidJafri/trumio): A decentralized app for secure token management.
 - [**Google Keep Clone**](https://github.com/MohdSajidJafri/Keep-Clone): A note-taking app with modern UI and efficient state management.
 - [**Blog API**](https://github.com/MohdSajidJafri/Blog-API-Project): A CRUD-enabled task management system using PostgreSQL.
 
