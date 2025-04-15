@@ -10,8 +10,8 @@
 - **Tools:** Git, Postman, Linux  
 
 ## 🌟 Highlighted Projects:
-- [**DID BlockChain Credential System**](https://github.com/MohdSajidJafri/trumio): A decentralized app for secure token management.
-- [**Google Keep Clone**](https://github.com/MohdSajidJafri/Keep-Clone): A note-taking app with modern UI and efficient state management.
+- [**Hostel-Connect**](https://github.com/MohdSajidJafri/Hostel-Connect): A platform for hostel residents to connect, interact, and network, breaking the barrier between seniors and juniors.
+- [**FinSight AI**](https://github.com/MohdSajidJafri/FinSight):FinSight AI is an advanced personal finance management application that helps users track expenses, manage budgets, and visualize spending patterns with an intuitive interface.
 - [**Blog API**](https://github.com/MohdSajidJafri/Blog-API-Project): A CRUD-enabled task management system using PostgreSQL.
 
 ## 📈 GitHub Stats:
