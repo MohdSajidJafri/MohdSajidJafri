@@ -1,6 +1,6 @@
 # Hi, I'm Mohd Sajid Jafri 👋
 
-🚀 **Sophomore CSE Student at Integral University**  
+🚀 **Pre-Final CSE Student at Integral University**  
 💻 Passionate about full-stack development, blockchain, and AI  
 🎯 Skilled in Python, JavaScript, ReactJS, NodeJS, and PostgreSQL  
 
