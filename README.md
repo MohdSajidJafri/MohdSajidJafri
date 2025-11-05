@@ -18,27 +18,23 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mohd Sajid Jafri"
-        self.role = "Full Stack Developer"
-        self.location = "India"
-        self.education = "Computer Science Engineering"
-        self.interests = ["Web Development", "Blockchain", "AI/ML"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "Java", "C++", "SQL"],
-            "frontend": ["React.js", "HTML5", "CSS3", "TailwindCSS"],
-            "backend": ["Node.js", "Express.js", "REST APIs"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL"],
-            "tools": ["Git", "Linux", "Postman", "VS Code"]
-        }
-    
-    def current_focus(self):
-        return "Building scalable web applications and exploring Web3 technologies"
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🔭 Currently working on **Full Stack Web Applications** and exploring **Web3 technologies**
+
+🌱 Learning **Blockchain Development** and **Advanced AI/ML** techniques
+
+👯 Looking to collaborate on **Open Source Projects** and **Innovative Startups**
+
+💬 Ask me about **React, Node.js, PostgreSQL, Python**
+
+⚡ Fun fact: I debug with console.log() and I'm not ashamed! 🐛
+
+🎯 2025 Goals: Contribute to major open source projects & build production-ready dApps
+
+📍 Based in **India** | Always open to interesting conversations and collaboration
+
+<br clear="right"/>
 
 ---
 
@@ -134,20 +130,14 @@ Always building something new! Check back regularly for updates.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohdSajidJafri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdSajidJafri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohdSajidJafri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdSajidJafri&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohdSajidJafri&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdSajidJafri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdSajidJafri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -157,7 +147,17 @@ Always building something new! Check back regularly for updates.
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MohdSajidJafri&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohdSajidJafri&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Mohd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdSajidJafri&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -178,16 +178,19 @@ Always building something new! Check back regularly for updates.
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 💭 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### ⚡ Fun Fact
-*I turn coffee into code and bugs into features!* ☕️→💻
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MohdSajidJafri/MohdSajidJafri/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-**Show some ❤️ by starring repositories you find interesting!**
+**"Code is like humor. When you have to explain it, it's bad!" – Cory House** 💻✨
+
+### Show some ❤️ by starring repositories you find interesting!
 
 </div>
