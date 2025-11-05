@@ -147,7 +147,7 @@ Always building something new! Check back regularly for updates.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohdSajidJafri&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=MohdSajidJafri&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -157,7 +157,7 @@ Always building something new! Check back regularly for updates.
 
 <div align="center">
 
-[![Mohd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdSajidJafri&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdSajidJafri&custom_title=Mohd%20Sajid%20Jafri's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff&area=true&hide_border=true&custom_title=Contribution%20Graph)
 
 </div>
 
