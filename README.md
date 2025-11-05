@@ -143,21 +143,46 @@ Always building something new! Check back regularly for updates.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Stats
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MohdSajidJafri&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=MohdSajidJafri&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
+
+<div align="center">
+
+![Commits Badge](https://img.shields.io/badge/Total%20Commits-500+-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![PRs Badge](https://img.shields.io/badge/Pull%20Requests-50+-blue?style=for-the-badge&logo=github&logoColor=white)
+![Issues Badge](https://img.shields.io/badge/Issues%20Resolved-30+-red?style=for-the-badge&logo=github&logoColor=white)
+![Stars Badge](https://img.shields.io/badge/Total%20Stars-100+-yellow?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdSajidJafri&custom_title=Mohd%20Sajid%20Jafri's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area_color=00d9ff&area=true&hide_border=true&custom_title=Contribution%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohdSajidJafri&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&height=300&custom_title=Contribution%20Activity%20Graph&theme=github-compact)
+
+</div>
+
+<div align="center">
+
+### 📊 Coding Activity Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 45 mins  ████████████░░░░░░░░░░░░   48.32 %
+Python       6 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░   24.63 %
+React        4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░   16.12 %
+SQL          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Other        1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+```
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -183,7 +208,11 @@ Always building something new! Check back regularly for updates.
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/MohdSajidJafri/MohdSajidJafri/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohdSajidJafri/MohdSajidJafri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohdSajidJafri/MohdSajidJafri/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohdSajidJafri/MohdSajidJafri/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
